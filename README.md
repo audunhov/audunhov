@@ -1,4 +1,4 @@
-### Audun Hammer Hovda
+### Audun Hammer Hovda 👋
 
 I am a:
 - Full stack developer: @[Unicornis](https://unicornis.no/) making [HyperSys](https://hypersys.no/), managing 500 000+ memberships in 60+ NGOs.
@@ -10,5 +10,5 @@ I am a:
 - More to come...
 
 #### Contact Information:
-- Email: `hammerhovda@gmail.com`
+- Email: `hammerhovda <at> gmail.com`
 
