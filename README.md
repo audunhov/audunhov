@@ -1,7 +1,8 @@
 ### Audun Hammer Hovda 👋
 
 I am a:
-- Full stack developer: @[Unicornis](https://unicornis.no/) making [HyperSys](https://hypersys.no/), managing 500 000+ memberships in 60+ NGOs.
+- Full stack developer @[Unicornis](https://unicornis.no/)
+- Neovim user, btw.
 - FOSS enthusiast
 
 #### Contributions:
