@@ -1,7 +1,7 @@
 ### Audun Hammer Hovda 👋
 
 I am a:
-- Full stack developer @[Unicornis](https://unicornis.no/)
+- Developer @[Unicornis](https://unicornis.no/)
 - Neovim user, btw.
 - FOSS enthusiast
 
